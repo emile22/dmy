@@ -1,7 +1,7 @@
 
-# YANG Highlighting Demo
+# YANG md
 
-Below is a YANG example highlighted by GitHub:
+Below is a YANG example 
 
 
 ```yang
