@@ -5,7 +5,7 @@ Below is a YANG example
 
 
 ```yang
-module example-module {
+  module example-module {
     yang-version 1.1;
     namespace "http://example.com/example-module";
     prefix ex;
