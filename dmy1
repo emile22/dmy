@@ -1,4 +1,4 @@
-
+'''yang
 
 module example-module {
     yang-version 1.1;
