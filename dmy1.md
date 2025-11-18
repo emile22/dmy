@@ -1,7 +1,3 @@
-# YANG Highlighting Demo
-
-Below is a YANG example highlighted by GitHub:
-
 '''yang
 
 module example-module {
