@@ -4,7 +4,7 @@ Below is a YANG example highlighted by GitHub:
 
 '''yang
 
-  module example-module {
+module example-module {
     yang-version 1.1;
     namespace "http://example.com/example-module";
     prefix ex;
@@ -30,3 +30,4 @@ Below is a YANG example highlighted by GitHub:
         }
     }
 }
+'''
